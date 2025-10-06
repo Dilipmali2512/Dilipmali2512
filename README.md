@@ -9,9 +9,9 @@
 
 👋 Hello, I'm Dilip Solanki!
 
-🎓 I'm studying information technology and love using technology to solve real-world problems. I've learned a lot about computer science through my studies.
+🎓 🎓 I’ve completed my degree in Information Technology and now work as a Full Stack Developer at WeHear Innovations Pvt Ltd. I’m passionate about using technology to solve real-world problems and build meaningful digital solutions. My journey in IT has helped me develop a strong understanding of computer science fundamentals and hands-on experience with modern development tools and frameworks.
 
-💻I have experience with several modern technologies including the MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js, Redux, MUI, and Web Bluetooth API. I’ve also worked with Python and IoT-based integrations, which help me build smart and connected solutions. My skills allow me to handle both frontend and backend development — from crafting intuitive user interfaces to implementing robust APIs and device communication layers.
+💻I have experience with several modern technologies including the MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js, Redux, MUI, and Web Bluetooth API. I’ve also worked with Python and IoT-based integrations, which help me build smart and connected solutions. My skills allow me to handle both frontend and backend development from crafting intuitive user interfaces to implementing robust APIs and device communication layers.
 
 🚀 I enjoy turning ideas into reality and have worked on projects using MERN Stack.
 
